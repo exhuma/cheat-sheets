@@ -1,15 +1,30 @@
-.. cheat-sheets documentation master file, created by
-   sphinx-quickstart on Sun Feb  2 12:20:36 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Personal Cheat-Sheets
+=====================
 
-Welcome to cheat-sheets's documentation!
-========================================
-
-Contents:
+Notes
+-----
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+    :glob:
+
+    notes/*
+
+Cheat Sheets
+------------
+
+.. note::
+
+    The cheat sheets are by no means meant to be exhaustive. I just keep notes
+    of things I keep forgetting. Things I already know, or don't use won't be
+    there.
+
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
+    cheats/*
 
 
 
